@@ -1,0 +1,9 @@
+GUI
+DELAY 2000
+STRING https://www.youtube.com/watch?v=mEJ_jxFJU_0
+DELAY 2000
+ENTER
+DELAY 3000
+STRING f
+DELAY 200
+ENTER
