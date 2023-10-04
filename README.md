@@ -4,6 +4,7 @@ USB Nugget payload library
 # Payload Library for Hakcat Devices
 
 This repository contains a working project to create payloads for Hakcat devices. 
+see: [https://usbnugget.com/](https://usbnugget.com/docs/get-started/introduction/)
 
 ## Disclaimer
 Because payloads have the ability to execute commands on your device or target, 
@@ -16,7 +17,8 @@ Scipts, information, and payloads found in this repository or project are create
 for educational purposes strictly, only where permitted, and subject to local and 
 international laws where applicable. Users are solely responsible for compliance with all laws 
 of their locality... Maintainers and contributors claim no responsibility for 
-unauthorized or unlawful use. 
+unauthorized or unlawful use. This library is intended to be used with the USB Nugget, which 
+is a creation by and whose intellectual property belongs to Alex Lynd.
 
 
 ### Comments
