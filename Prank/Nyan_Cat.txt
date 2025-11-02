@@ -1,3 +1,9 @@
+#Title: Nyan_Cat.txt
+#Author: EVA00 
+#Description: force open browser, youtube > nyan cat, fullsize window play
+#Target: Windows 
+
+
 GUI
 DELAY 2000
 STRING https://www.youtube.com/watch?v=mEJ_jxFJU_0

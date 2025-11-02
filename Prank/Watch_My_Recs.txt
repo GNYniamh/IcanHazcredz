@@ -1,5 +1,5 @@
 #Title: Watch_My_Recs
-#Author: GNY NIAMH 
+#Author: EVA00 
 #Description: force fullsize window of texas anime to populate 
 #after the target closes the window launch command prompt with string 
 #force fullsize popup of russki anime 
