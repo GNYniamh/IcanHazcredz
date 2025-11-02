@@ -1,4 +1,4 @@
-#Title: Nyan_Cat.txt
+#Title: Nyan_Cat
 #Author: EVA00 
 #Description: force open browser, youtube > nyan cat, fullsize window play
 #Target: Windows 
